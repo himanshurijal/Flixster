@@ -27,7 +27,7 @@ Time spent: **12** spent in total
 
 ### App Walkthough GIF
 
-<img src='walkthrough_part2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough_part2.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
 
 ---
 
@@ -49,7 +49,7 @@ Time spent: **12** spent in total
 
 ### App Walkthough GIF
 
-<img src='walkthrough_part1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough_part1.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
